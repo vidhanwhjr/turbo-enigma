@@ -75,7 +75,7 @@ function mykeydown(e){
         console.log("down key")
     }
     if(keyPressed == '68'){
-        car1_right();
+        car2_right();
         console.log("right key")
     }
 }
